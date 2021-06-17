@@ -65,6 +65,7 @@ console.log(`The  ${spaceShuttle.name} takes ${spaceShuttle.getDaysToLocations(k
 
 
 // Add the printDaysToLocation function to the Spacecraft class.
+// Paste in the code from step 6 here:
 spaceShuttle.printDaysToLocation(new SpaceLocation('Mars', kilometersToMars));
 spaceShuttle.printDaysToLocation(new SpaceLocation('the Moon', kilometersToTheMoon));
-// Paste in the code from step 6 here:
+
